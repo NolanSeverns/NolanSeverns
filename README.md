@@ -32,7 +32,7 @@ I’m a Computer Science student with a strong interest in building practical, u
 ---
 
 📫 Let’s Connect
-- 🔗 LinkedIn: https://www.linkedin.com/in/nolan-severns-b31aa53aa/
+- 🔗 LinkedIn: https://www.linkedin.com/in/nolan-severns/
 - 📧 Email: ns.severns@icloud.com
 
 ---
