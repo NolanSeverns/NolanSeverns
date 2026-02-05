@@ -1,24 +1,48 @@
-👋 Hello, I'm Nolan Severns!
+👋 Hi, I’m Nolan Severns
 
-I'm a passionate computer science major with a love for exploring the intersection of technology and programming. Welcome to my GitHub profile, where you'll find a collection of projects, experiments, and explorations in the world of coding, data analysis, and beyond.
+I’m a Computer Science student with a strong interest in building practical, user-focused software. My work spans mobile applications, databases, dashboards, and full-stack systems, with an emphasis on clean architecture, security, and real-world usability.
 
-🌱 About Me
-🎓 Currently pursuing my degree in computer science.
-💻 Proficient in Java, CSS, Python, C++,HTML, microsoft applications such as MS Excel, MS Word, MS Access, MS Powerpoint and web development.
-📊 Fascinated by the power of data and its ability to uncover insights and drive informed decisions.
-🚀 What I'm Working On
-FILL
-📫 Let's Connect
-🔗 [LinkedIn](Your LinkedIn Profile Link)
-📧 Email nolan.b.severns@my.occc.edu
-🤝 Looking to Collaborate?
-👀 Interested in collaboration opportunities, open-source projects, and connecting with like-minded individuals.
-🌟 Let's chat about potential collaborations, ideas, or just to say hello!
+---
 
-🌐 Visit My Website
-LINK HERE
-Thanks for stopping by! Feel free to explore my projects and reach out if you have any questions, ideas, or just want to connect. 🚀
-<!---
-NolanSeverns/NolanSeverns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 About Me
+- 🎓 Computer Science major
+- 💻 Experience with Java, Python, C++, JavaScript, HTML, CSS
+- 📱 Building cross-platform mobile apps with React Native / Expo
+- 📊 Comfortable working with databases, SQL, and data visualization
+- 🧠 Interested in how software design decisions impact user behavior and scalability
+
+---
+
+🚀 What I’m Working On
+- Mobile applications with intent-aware user flows
+- Authentication systems and data-driven dashboards
+- Improving project structure, documentation, and security practices
+- Expanding full-stack and system design skills
+
+---
+
+🛠️ Tools & Technologies
+- React Native / Expo  
+- Firebase  
+- SQLite / SQL  
+- JavaScript / TypeScript  
+- Git & GitHub  
+- Microsoft Excel, Word, Access, PowerPoint  
+
+---
+
+📫 Let’s Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/nolan-severns-b31aa53aa/
+- 📧 Email: ns.severns@icloud.com
+
+---
+
+🤝 Collaboration
+I’m open to collaboration on:
+- Software projects
+- Open-source contributions
+- Learning-focused or experimental applications
+
+Feel free to reach out if you’d like to collaborate or just connect.
+
+Thanks for stopping by — take a look around!
